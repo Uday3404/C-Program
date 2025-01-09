@@ -1,0 +1,16 @@
+body
+{
+    background-color: #9eb6dc;
+
+
+}
+h2
+{
+    color: rgb(148, 44, 44);
+    
+    text-align: center;
+    margin  :30px;
+    border-top: solid black;
+    border-bottom: solid black;
+    padding: 30px;
+}
